@@ -1,0 +1,55 @@
+#calcult {
+  background-color: #383740;
+  display: inline-block;
+  padding: 1.5%;
+  border-radius: 5px;
+  color: #383740;
+  box-shadow: 4px 5px 5px 8px #383740;
+  margin-top: 4%;
+}
+#calcult .row {
+  margin-bottom: 5px; 
+}
+#calcult a {
+  width: 50px;
+  color: #383740;
+}
+#calcult a:hover {
+  background-color: #A9A4BF;
+}
+#calcult a.largeBtn {
+  width: 104px;
+}
+#blockCalcult {
+  
+  
+}
+#res {
+  text-align: right;
+  background-color: snow;
+  width: 100%;
+  display: block;
+  border-radius: 3px;
+  padding: 8px 8px 40px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  box-shadow: inset 0px 0px 10px #A9A4BF;
+}
+.browncolor {
+  background-color: brown;
+  border-color: #262626;
+  color: #E2DBFF;
+}
+#inpRes {
+  color: brown;
+  position: absolute;
+  top: 35px;
+  right: 30px;
+  font-size: 20px;
+}
+h1 {
+  color: snow;
+  margin:0 0 20px;
+  padding:0;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
